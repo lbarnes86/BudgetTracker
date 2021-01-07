@@ -29,12 +29,20 @@ Users can add expenses and deposits to their budget with or without a connection
 
 ## Dependencies
 
+- [Mongo](https://www.npmjs.com/package/mongodb)
+- [Mongoose](https://www.npmjs.com/package/mongoose)
+- [Express](https://www.npmjs.com/package/express)
 - [JavaScript](https://www.javascript.com/) 
 - [CSS](https://www.w3schools.com/css/css_intro.asp) 
 - [HTML](https://html.com/) 
 
 ## Screenshots
 
+<img src="https://user-images.githubusercontent.com/70309736/103858220-9708c300-507d-11eb-9ec8-67cda9d853c7.png">
+
+<img src="https://user-images.githubusercontent.com/70309736/103858226-9839f000-507d-11eb-90cf-9cf47dd94e24.png">
+
+<img src="https://user-images.githubusercontent.com/70309736/103858230-996b1d00-507d-11eb-9a3d-e121b5b2944f.png">
 
 ## Contributors
 
