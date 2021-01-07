@@ -126,7 +126,7 @@ function sendTransaction(isAdding) {
   })
   .then(data => {
     if (data.errors) {
-      errorEl.textContent = "Missing Data";
+      errorEl.textContent = "Missing Information";
     }
     else {
       // clear form
