@@ -19,18 +19,17 @@
 
 ## Description
 
->The 
+>Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
 
 ## Usage
 
 ```
-
+Users can add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
 ```
 
 ## Dependencies
 
 - [JavaScript](https://www.javascript.com/) 
-- [jQuery](https://api.jquery.com/) 
 - [CSS](https://www.w3schools.com/css/css_intro.asp) 
 - [HTML](https://html.com/) 
 
