@@ -50,4 +50,7 @@ Users can add expenses and deposits to their budget with or without a connection
 
 ## License
 
-Copyright© SMU BOOTCAMP 2020
+![License](https://img.shields.io/badge/license-ISC-green")
+
+
+Copyright© 2021 [Lloyd Barnes](https://lbarnes86.github.io/react-portfolio/)
